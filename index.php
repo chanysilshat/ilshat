@@ -1,1 +1,1 @@
-<?echo 1122?>
+<?echo "pre"; print_r($_SERVER); echo "</pre>";?>
