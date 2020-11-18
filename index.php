@@ -1,7 +1,5 @@
-   
-
-<?  
-
+ <?  
+echo "11";
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("Мебельная компания");
 ?><p>
